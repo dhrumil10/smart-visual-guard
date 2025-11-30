@@ -24,6 +24,8 @@ Under the hood it uses computer vision + a multi-agent RAG system to not only de
 
 ---
 
+<img width="1536" height="1024" alt="ChatGPT Image Nov 30, 2025, 03_18_06 PM" src="https://github.com/user-attachments/assets/e5560ede-c6c1-4e8f-a1f7-7665f8f867a0" />
+
 ## 🧠 High-Level Architecture
 
 ```text
@@ -57,4 +59,4 @@ Under the hood it uses computer vision + a multi-agent RAG system to not only de
 
 
 
-<img width="1536" height="1024" alt="ChatGPT Image Nov 30, 2025, 03_18_06 PM" src="https://github.com/user-attachments/assets/e5560ede-c6c1-4e8f-a1f7-7665f8f867a0" />
+
