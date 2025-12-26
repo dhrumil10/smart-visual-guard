@@ -1,6 +1,7 @@
 # Project-specific ignores
 env/
-
+.env
+venv/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -10,6 +11,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+
+_pycache_/
 .Python
 build/
 develop-eggs/
